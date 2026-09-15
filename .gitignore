@@ -1,0 +1,18 @@
+.DS_Store
+.ipynb_checkpoints/
+*.mp4
+ANIMATIONS/
+TDA/CACHE/
+TDA/FIGURES/
+
+# Tutorial figures are generated unless explicitly allow-listed below.
+FIGURES/ABM/*
+!FIGURES/ABM/couzin2002_2d_phase_full_heatmap.png
+!FIGURES/ABM/couzin2002_2d_regimes.png
+!FIGURES/ABM/couzin2002_2d_phase_full_surface.png
+!FIGURES/ABM/couzin2002_3d_phase_full_heatmap.png
+!FIGURES/ABM/couzin2002_3d_phase_full_surface.png
+FIGURES/ESN/*
+FIGURES/swarmRC/*
+!FIGURES/swarmRC/lymburn_sweep_heatmap.png
+!FIGURES/swarmRC/lymburn_fig8c_full.png
